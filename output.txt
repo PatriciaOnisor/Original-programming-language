@@ -1,0 +1,56 @@
+Variabile: 
+
+Variabila declarata in mytype. name: x, type: int, value: 16
+
+Variabila declarata in f. name: z, type: float, value: 
+
+Variabila declarata gloabal. name: ix, type: int, value: 
+
+Variabila declarata gloabal. name: gix1, type: int, value: 2
+
+Variabila declarata gloabal. name: gix2, type: int, value: 5500000
+
+Variabila declarata gloabal. name: gf, type: float, value: 
+
+Variabila declarata gloabal. name: gs, type: string, value: A string
+
+Variabila declarata gloabal. name: gc, type: char, value: c
+
+Variabila declarata gloabal. name: gb, type: bool, value: false
+
+Variabila declarata gloabal. name: mobj, type: mytype, value: 
+
+Variabila declarata gloabal. name: mix, type: int, value: 0
+
+Variabila declarata gloabal. name: l, type: int, value: 2
+
+Variabila declarata gloabal. name: xn, type: float, value: 
+
+Variabila declarata in ff. name: ix1, type: int, value: 
+
+Variabila declarata gloabal.name: gtab[0] , type: int, value:0
+
+Variabila declarata gloabal.name: gtab[5] , type: int, value:10
+
+Parametri:
+
+Nume parametru: y return type: int type:int declarata in f
+
+Nume parametru: f return type: int type:int declarata in lala
+
+Nume parametru: k return type: int type:int declarata in ff
+
+Nume parametru: f return type: int type:float declarata in ff
+
+Nume parametru: s return type: int type:string declarata in ff
+
+Functii:
+
+Functie declarata in clasa mytype. Functia: f, type: int
+
+Functie declarata in clasa mytype. Functia: lala, type: int
+
+Functie declarata global. Functia: ff, type: int
+
+Functie declarata global. Functia: check, type: bool
+

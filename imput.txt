@@ -1,0 +1,73 @@
+###types
+class mytype
+{
+    Data:  
+	int x;
+	Methods: 
+	int f(int y) { float z;};
+	int lala(int f);
+	mytype();
+};
+
+
+###globalVars
+int ix;
+int gix1,gix2;
+float gf;
+string gs;
+char gc;
+bool gb;
+int gtab[100];
+mytype mobj;
+int mix;
+int l;
+float xn;
+###globalFunctions
+int ff(int k, float f, string s) 
+{
+	int ix1;
+};
+bool check();
+
+begin_progr
+gix1=lala()+lala()+lala();
+Eval(gix1);
+gc=/c/;gs=/A string/;
+TypeOf(gc);
+gb=false;
+
+
+if(ix==15) 
+{
+gix1=2;
+gix2 = 10000;
+gtab[0]=0;
+gix2=100+gix1+8*5*gix2+gtab[0];
+Eval(gix2);
+};
+
+Eval(gc);
+gtab[5]=10;
+gb=gb==true;
+Eval(gb);
+Eval(x==2||gb);
+
+for(l=1;l<=10;l=l+1) 
+{
+	x=16;
+};
+
+Eval(gs);
+TypeOf(gs);
+mobj.x=16;
+
+ff(10,10,gs);
+mix=ff(10.2)+ff(10.5);
+
+
+
+
+
+
+ff(10, 2.3, 10); 
+end_progr
